@@ -1,0 +1,7 @@
+interface:
+  display_name: "ICE Context Kit: Handoff"
+  short_description: "Save the current session into .context"
+  default_prompt: "Use $handoff to save this session with ICE Context Kit."
+
+policy:
+  allow_implicit_invocation: true

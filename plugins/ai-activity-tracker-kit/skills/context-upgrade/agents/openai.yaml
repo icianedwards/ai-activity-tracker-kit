@@ -1,0 +1,7 @@
+interface:
+  display_name: "ICE Context Kit: Context Upgrade"
+  short_description: "Upgrade .context folders to the latest kit"
+  default_prompt: "Use $context-upgrade to upgrade my ICE Context Kit folders."
+
+policy:
+  allow_implicit_invocation: true

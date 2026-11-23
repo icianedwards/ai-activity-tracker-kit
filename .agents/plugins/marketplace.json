@@ -1,0 +1,12 @@
+{
+  "name": "ice",
+  "interface": { "displayName": "ICE" },
+  "plugins": [
+    {
+      "name": "ai-activity-tracker-kit",
+      "source": { "source": "local", "path": "./plugins/ai-activity-tracker-kit" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "ICE Context Kit: Pickup"
+  short_description: "Resume from the repository context"
+  default_prompt: "Use $pickup to catch me up with ICE Context Kit."
+
+policy:
+  allow_implicit_invocation: true

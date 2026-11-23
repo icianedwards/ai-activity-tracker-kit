@@ -1,0 +1,4 @@
+# Personal working state: per developer and per worktree, never committed.
+current/
+history/*
+!history/README.md

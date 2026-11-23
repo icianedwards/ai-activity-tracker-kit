@@ -1,0 +1,7 @@
+interface:
+  display_name: "ICE Context Kit: Activity Review"
+  short_description: "Open the local activity review and upload page"
+  default_prompt: "Use $activity-review to open my ICE Context Kit activity review page."
+
+policy:
+  allow_implicit_invocation: true

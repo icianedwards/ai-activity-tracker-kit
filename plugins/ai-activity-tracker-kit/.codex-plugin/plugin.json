@@ -1,0 +1,9 @@
+{
+  "name": "ai-activity-tracker-kit",
+  "version": "0.5.7",
+  "description": "Per-repo and per-project .context/ session memory ($ctx-init, $handoff, $pickup, $context-upgrade) plus Codex activity tracking and review ($timesheet, $activity-review).",
+  "author": { "name": "Ian Edwards" },
+  "repository": "https://github.com/icianedwards/ai-activity-tracker-kit",
+  "skills": "./skills/",
+  "hooks": "./hooks/codex-hooks.json"
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "ICE Context Kit: Ctx Init"
+  short_description: "Set up the .context session-memory folder"
+  default_prompt: "Use $ctx-init to set up ICE Context Kit in this repository."
+
+policy:
+  allow_implicit_invocation: true

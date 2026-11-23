@@ -1,0 +1,7 @@
+interface:
+  display_name: "ICE Context Kit: Timesheet"
+  short_description: "Review tracked activity and prepare timesheet hours"
+  default_prompt: "Use $timesheet to review my ICE Context Kit activity and timesheet hours."
+
+policy:
+  allow_implicit_invocation: true

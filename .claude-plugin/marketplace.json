@@ -1,0 +1,12 @@
+{
+  "name": "ice",
+  "owner": { "name": "Ian Edwards" },
+  "metadata": { "description": "Ian Edwards's ICE AI activity and context plugins." },
+  "plugins": [
+    {
+      "name": "ai-activity-tracker-kit",
+      "source": "./plugins/ai-activity-tracker-kit",
+      "description": "Per-repo and per-project .context/ session memory (/ctx-init, /handoff, /pickup, /context-upgrade) plus Claude activity tracking and review (/timesheet, /activity-review)."
+    }
+  ]
+}
