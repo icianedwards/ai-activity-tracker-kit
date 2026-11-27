@@ -1,6 +1,6 @@
 {
   "name": "ai-activity-tracker-kit",
-  "version": "0.5.7",
+  "version": "0.5.8",
   "description": "Per-repo and per-project .context/ session memory (/ctx-init, /handoff, /pickup, /context-upgrade) plus Claude activity tracking and review (/timesheet, /activity-review).",
   "author": { "name": "Ian Edwards" },
   "repository": "https://github.com/icianedwards/ai-activity-tracker-kit"

@@ -2,6 +2,9 @@
 
 Newest first. Note any manual step people need after updating.
 
+## ai-activity-tracker-kit 0.5.8 — 2026-11-27
+- Fixed Codex hook commands to use Codex's `PLUGIN_ROOT` environment variable, allowing activity tracking and context loading hooks to execute.
+
 ## ai-activity-tracker-kit 0.5.7 — 2026-11-23
 - Codex now uses the dedicated `codex-hooks.json` manifest so local activity is recorded with `source = codex` instead of relying on stale shared hook registration.
 - Bump the local plugin version so Codex reloads and trusts the updated hook manifest.
